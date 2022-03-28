@@ -23,3 +23,9 @@ Type of packages :
 - Reusable (Code used as `helpers`. Good place to used reusable logic)
 
 ![package type 1](img-5.png)
+
+## func
+![package type 1](img-6.png)
+
+## How the main.go file organized
+![organized](img-7.png)
